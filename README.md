@@ -43,10 +43,10 @@ python results.py
 # Cite
 If you find this code useful in your research, please consider citing:
 ```
-@article{sarridis2021indistill,
+@article{TODO,
   title={InDistill: Transferring Knowledge From Pruned Intermediate Layers},
-  author={Sarridis, Ioannis and Koutlis, Christos and Papadopoulos, Symeon and Kompatsiaris, Ioannis},
-  journal={arXiv preprint arXiv:TODO},
+  author={TODO},
+  journal={TODO},
   year={2022}
 }
 ```
