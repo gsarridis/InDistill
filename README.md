@@ -1,6 +1,6 @@
 # InDistill: Transferring Knowledge From Pruned Intermediate Layers
 
-This is a pytorch implementation of the InDistill method. Our paper can be found **here** (TODO: add the link)
+This is a pytorch implementation of the InDistill method. Our paper can be found [here](https://arxiv.org/pdf/2205.10003.pdf)
 
 InDistill enchances the effectiveness of the Knowledge Distillation procedure by leveraging the properties of channel pruning to both reduce the capacity gap between the models and retain the information geometry. Also, this method introduces a curriculum learning based scheme for enhancing the effectiveness of transferring knowledge from multiple intermediate layers.
 
@@ -44,9 +44,9 @@ python results.py
 If you find this code useful in your research, please consider citing:
 ```
 @article{sarridis2022indistill,
-  title={InDistill: Transferring Knowledge From Pruned Intermediate Layers},
-  author={Sarridis, Ioannis and Koutlis, Christos and Papadopoulos, Symeon and Kompatsiaris, Ioannis},
-  journal={arXiv preprint arXiv:2205.10003},
+  title={InDistill: Information flow-preserving knowledge distillation for model compression},
+  author={Sarridis, Ioannis and Koutlis, Christos and Kordopatis-Zilos, Giorgos and Kompatsiaris, Ioannis and Papadopoulos, Symeon},
+  journal={arXiv preprint arXiv:2205.10003v2},
   year={2022}
 }
 ```
