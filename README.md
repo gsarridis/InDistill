@@ -1,4 +1,4 @@
-# InDistill: Transferring Knowledge From Pruned Intermediate Layers
+# InDistill: Information flow-preserving knowledge distillation for model compression
 
 This is a pytorch implementation of the InDistill method. Our paper can be found [here](https://arxiv.org/pdf/2205.10003.pdf)
 
